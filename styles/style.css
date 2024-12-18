@@ -1,0 +1,20 @@
+.header{
+    background-color: rgb(0, 89, 255);
+    color: blueviolet;
+}
+.footer{
+    background-color: aqua;
+}
+.menu_link{
+    color: blueviolet;
+}
+
+@font-face {
+    font-family: "Poppins";
+    src: url("../fonts/Poppins-Regular.woff2") format("woff2");
+    font-weight: normal;
+}
+
+body{
+    font-family: "Poppins";
+}
